@@ -1,4 +1,4 @@
-module counter (
+module Traffic_Light (
 	input clk,
 	input rst,
 	output reg [31:0] numar,
